@@ -1,0 +1,30 @@
+{
+  "name": "react-electron-boilerplate",
+  "version": "1.0.0",
+  "description": "a base project for reactjs with electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ntwari Joshua",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2",
+    "webpack": "^3.6.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.0",
+    "clean-webpack-plugin": "^0.1.16",
+    "electron-connect": "^0.6.2",
+    "file-loader": "^0.11.2",
+    "gulp": "^3.9.1",
+    "html-webpack-plugin": "^2.30.1"
+  }
+}
